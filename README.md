@@ -1,6 +1,19 @@
 fork from [this](http://github.com/Urinx/WeixinBot) and modified some process to achieve my purpose.
 
-New features:
+**How to use:**
+
+0. Suppose you have python
+
+1. If you do not have pip -> `python get-pip.py`
+
+2. Then setup requirements -> `pip install -r requirements.txt`
+
+3. Just python it and done -> 'python weixin.py'
+
+4. scan qrcode to log in
+
+
+**New features:**
 
 1. Rollback spy
 
